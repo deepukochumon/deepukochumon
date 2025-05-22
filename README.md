@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Deepu Kochumon</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg?semt=ais_hybrid&w=740">
-- 🌱 I’m currently learning **Software Development in multiple languages and specializing the techs I know**
+-  🌱 I’m currently learning **Software Development in multiple languages and specializing the techs I know.**
 
 - 💬 Ask me about **Django, Python, DSA,**
 
 - 💻 Full-Stack Developer in Progress
-Hands-on experience in building full-stack applications using Django, ReactJS, and databases like MySQL and SQLite.
 
--🧠 Machine Learning Enthusiast
-Worked on ML-based projects, including an AI-powered ECG analyzer, with experience in data preprocessing, model training, and integration with web platforms.
+- 🧠 Machine Learning Enthusiast
 
--🛠️ Project-Focused Approach
-Built several practical applications such as a task manager, real-time chat app, and lab management system 
+- 🛠️ Project-Focused Approach
 
--🌱 Actively Contributing and Improving
-Committed to continuous learning and open-source collaboration. Always open to feedback, mentorship, and contributing to meaningful projects.
+- 🌱 Actively Contributing and Improving
 
 - 📫 How to reach me **deepukochumon38@gmail.com**
 
