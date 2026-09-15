@@ -3,10 +3,15 @@
 <img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
 -  🌱 I’m currently learning **Software Development in multiple languages and specializing the techs i know**
 - 💬 Ask me about **Django, Python, DSA,**
+
 - 💻 Full-Stack Developer in Progress
+
 - 🧠 Machine Learning Enthusiast
+
 - 🛠️ Project-Focused Approach
+
 - 🌱 Actively Contributing and Improving
+
 - 📫 How to reach me **deepukochumon38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
